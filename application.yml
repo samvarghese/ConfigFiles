@@ -1,1 +1,6 @@
-
+my:
+      greeting:Hello world from config server
+      list:
+           values:one,two,three
+db:
+   connection:test-connection
